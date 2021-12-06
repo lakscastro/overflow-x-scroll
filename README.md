@@ -5,7 +5,7 @@
 
 ```css
 github {
-  overflow-x: visible;
+  overflow-x: scroll;
 }
 ```
   
